@@ -1,0 +1,13 @@
+# Compiled source #
+###################
+*.pyc
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+
+.idea/
+*credentials.dat
+client_secret*
